@@ -1,5 +1,0 @@
-[settings]
-bot_token=8680435058:AAEXsFZMxQljU_yy98-NOmlLqx7t9447bJA
-admin_id=7475001919,8803316920
-group_id=YOUR_GROUP_ID_FOR_LOGS
-topic_reply_id=YOUR_TOPIC_ID_FOR_LOGS
