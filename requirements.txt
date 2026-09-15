@@ -1,9 +1,0 @@
-APScheduler>=3.11,<4
-aiogram>=3.20,<4
-colorlog>=6.9,<7
-pytz>=2025.2,<2026
-aiogram_i18n>=1.4,<2
-pydantic>=2.12,<3
-aiohttp>=3.12,<4
-colorama>=0.4.6,<1
-fluent.runtime
